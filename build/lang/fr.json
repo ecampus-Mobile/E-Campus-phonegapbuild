@@ -122,7 +122,7 @@
     "mm.login.usernamerequired": "Nom d'utilisateur requis",
     "mm.login.webservicesnotenabled": "Les Services web ne sont pas activés sur votre site. Veuillez contacter l'administrateur de votre site si vous pensez qu'ils devraient être activés.",
     "mm.settings.about": "À propos",
-    "mm.settings.appname": "Moodle Mobile {{version}}",
+    "mm.settings.appname": "E-campus Mobile {{version}}",
     "mm.settings.cacheexpirationtime": "Durée d'échéance du cache (ms)",
     "mm.settings.credits": "Remerciements",
     "mm.settings.deletesitefiles": "Voulez-vous vraiment supprimer les fichiers téléchargés depuis ce site ?",
