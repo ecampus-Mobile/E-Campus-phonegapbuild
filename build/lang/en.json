@@ -98,7 +98,7 @@
     "mm.courses.frontpage": "Front page",
     "mm.courses.mycourses": "My courses",
     "mm.settings.about": "About",
-    "mm.settings.appname": "Moodle Mobile {{version}}",
+    "mm.settings.appname": "E-Campus ITCILO Mobile {{version}}",
     "mm.settings.cacheexpirationtime": "Cache expiration time (miliseconds)",
     "mm.settings.credits": "Credits",
     "mm.settings.deletesitefilestitle": "Delete site files",
