@@ -133,7 +133,7 @@
     "mm.login.usernamerequired": "Username required",
     "mm.login.webservicesnotenabled": "Web Services are not enabled in your site. Please, contact your Moodle site administrator if you think mobile access should be enabled.",
     "mm.settings.about": "About",
-    "mm.settings.appname": "Moodle Mobile {{version}}",
+    "mm.settings.appname": "E-Campus ITC-ILO Mobile  {{version}}",
     "mm.settings.cacheexpirationtime": "Cache expiration time (miliseconds)",
     "mm.settings.credits": "Credits",
     "mm.settings.deletesitefilestitle": "Delete site files",
